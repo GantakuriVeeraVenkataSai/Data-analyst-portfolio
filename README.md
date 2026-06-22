@@ -31,6 +31,40 @@ My approach: start with the business question, trace it back to the data, and bu
 | **Skills** | KPI Development, ETL, Dashboard Design, Data Storytelling |
 
 ---
+## About Me
+
+I am a Data Analyst with hands-on experience in SQL, Power BI, Excel, Python, and Data Visualization. I enjoy transforming raw data into meaningful insights that support business decision-making.
+
+### Core Skills
+
+- SQL
+- Power BI
+- DAX
+- Power Query
+- Excel
+- Python
+- Pandas
+- NumPy
+- MySQL
+- Data Modeling
+- Data Visualization
+- Dashboard Development
+
+---
+
+## Featured Projects
+
+### Customer Segmentation & Revenue Analysis
+
+**Tools:** SQL, Power BI
+
+- Performed customer segmentation using SQL.
+- Used CTEs and Window Functions for advanced analysis.
+- Identified that the top 20% of customers contributed more than 60% of total revenue.
+- Developed an interactive Power BI dashboard for business insights.
+
+Repository:
+https://github.com/GantakuriVeeraVenkataSai/customer-segmentation-sql-powerbi
 
 ## 🚀 Featured Projects
 
@@ -61,31 +95,84 @@ My approach: start with the business question, trace it back to the data, and bu
 
 ---
 
-## 💼 Experience
 
-**Python Full Stack Intern** — HIGH-Q Labs *(Jun 2024 – Aug 2024)*
-- Built a REST-based weather application using Django + API integration
-- Optimized database queries → **30% improvement in response time**
-- Structured backend into reusable Python modules for long-term maintainability
+## Certifications
+
+### Microsoft Fabric Data Engineer Associate
+
+Skills:
+- Microsoft Fabric
+- Data Engineering
+- ETL
+- Analytics
+
+### Microsoft Power BI Learning Path
+
+Skills:
+- Power BI
+- DAX
+- Dashboard Development
+- Data Modeling
+
+### Data Analytics Master Course with AI
+
+Skills:
+- Analytics
+- Visualization
+- Machine Learning Fundamentals
+
+### Machine Learning with Python
+
+Skills:
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
 
 ---
 
-## 🎓 Education
+## Education
 
-| Degree | Institution | GPA | Year |
-|---|---|---|---|
-| MCA | BVC College of Engineering (A) | 8.36 | 2023–2025 |
-| B.Sc. Computer Science | Aditya Degree College | 8.06 | 2019–2022 |
+### Master of Computer Applications (MCA)
+BVC Engineering College
+2023 – 2025
+CGPA: 8.36
+
+### Bachelor of Science (Computer Science)
+Aditya Degree College
+2019 – 2022
+CGPA: 8.06
+
+---
+
+## Contact
+
+📧 Email:
+sai.ganthakuri@gmail.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/veera-venkata-sai-gantakuri-08016b233
+
+🔗 GitHub:
+https://github.com/GantakuriVeeraVenkataSai
 
 ---
 
-## 📜 Certifications
+## Technologies Used
 
-- 🏆 **Microsoft Power BI Learning Path** — Microsoft Learn (Aug 2025)
-  - 8 modules: Data Modeling, DAX, Dashboard Dev, Power BI Service, Data Governance
-- 🤖 **Machine Learning with Python** — PANTECH Solutions (Jan 2024)
+- HTML5
+- CSS3
+- JavaScript
+- SQL
+- Power BI
+- Excel
+- Python
 
 ---
+
+## License
+
+This project is open source and available under the MIT License.
 
 ## 📊 GitHub Stats
 
