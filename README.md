@@ -31,10 +31,6 @@ My approach: start with the business question, trace it back to the data, and bu
 | **Skills** | KPI Development, ETL, Dashboard Design, Data Storytelling |
 
 ---
-## About Me
-
-I am a Data Analyst with hands-on experience in SQL, Power BI, Excel, Python, and Data Visualization. I enjoy transforming raw data into meaningful insights that support business decision-making.
-
 ### Core Skills
 
 - SQL
